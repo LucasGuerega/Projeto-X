@@ -1,0 +1,43 @@
+        body {
+           font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #6ac0f8;
+        }
+        svg {
+            max-width: 100%;
+            height: auto;
+        }
+        .setor-clicavel {
+            fill: #607d8b; /* Cor padrão */
+            transition: fill 0.3s ease, transform 0.2s ease;
+            cursor: pointer;
+            transform-origin: center;
+        }
+        .setor-clicavel:hover {
+            fill: #ff5722; /* Cor ao passar o mouse */
+        }
+        #info-box {
+
+            margin-top: 20px;
+            padding: 15px 20px;
+            border: 1px solid #ddd;
+            background-color: #e0f2f7;
+            border-radius: 8px;
+            min-height: 80px; /* Mais espaço para os detalhes */
+            text-align: left; /* Alinha o texto à esquerda */
+            color: #333;
+            font-size: 1em;
+            width: 400px; /* Largura maior para os detalhes */
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+        }
+        #info-box p {
+          animation: normal ;
+            margin: 5px 0;
+            line-height: 1.4;
+        }
+        #info-box strong {
+            color: #0056b3;
+        }

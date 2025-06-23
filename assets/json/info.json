@@ -1,0 +1,29 @@
+{
+    "87": {
+        "Cidade": "Florianópolis",
+        "Região": "",
+        "Nome_Do_Curso": "",
+        "Turno": "",
+        "Site": "",
+        "Modalidade": "",
+        "Categoria_Administrativa_Da_IES": ""
+    },
+    "242": {
+        "Cidade": "Blumenau",
+        "Região": "test",
+        "Nome_Do_Curso": "test",
+        "Turno": "test",
+        "Site": "test",
+        "Modalidade": "test",
+        "Categoria_Administrativa_Da_IES": "test"
+    },
+    "Joinville": {
+        "Cidade": "Joinville",
+        "Região": "",
+        "Nome_Do_Curso": "",
+        "Turno": "",
+        "Site": "",
+        "Modalidade": "",
+        "Categoria_Administrativa_Da_IES": ""
+    }
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Cidades Interativo com Detalhes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        svg {
+            border: 1px solid #ccc;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 80%;
+            height: auto;
+        }
+        .setor-clicavel {
+            fill: #607d8b; /* Cor padrão */
+            transition: fill 0.3s ease, transform 0.2s ease;
+            cursor: pointer;
+            transform-origin: center;
+        }
+        .setor-clicavel:hover {
+            fill: #ff5722; /* Cor ao passar o mouse */
+            transform: scale(1.02);
+        }
+        #info-box {
+            margin-top: 20px;
+            padding: 15px 20px;
+            border: 1px solid #ddd;
+            background-color: #e0f2f7;
+            border-radius: 8px;
+            min-height: 80px; /* Mais espaço para os detalhes */
+            text-align: left; /* Alinha o texto à esquerda */
+            color: #333;
+            font-size: 1em;
+            width: 400px; /* Largura maior para os detalhes */
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+        }
+        #info-box p {
+            margin: 5px 0;
+            line-height: 1.4;
+        }
+        #info-box strong {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Mapa de Cidades de SC</h1>
+
+    <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+        <circle id="Floripa" cx="600" cy="450" r="50" fill="#007bff" stroke="white" stroke-width="2" class="setor-clicavel"/>
+        <rect id="Blumenau" x="300" y="200" width="120" height="80" fill="#28a745" stroke="white" stroke-width="2" class="setor-clicavel"/>
+        <path id="Joinville" d="M100 50 L250 50 L200 150 L50 150 Z" fill="#dc3545" stroke="white" stroke-width="2" class="setor-clicavel"/>
+        </svg>
+
+    <div id="info-box">Carregando informações das cidades...</div>
+
+    <script>
+        let setorInfo = {}; // Variável para armazenar os dados do JSON
+        const infoBox = document.getElementById('info-box');
+        const setoresClicaveis = document.querySelectorAll('.setor-clicavel');
+
+        // Função para formatar os detalhes da cidade
+        function formatCityDetails(cityData) {
+            if (!cityData) {
+                return 'Nenhuma informação detalhada disponível.';
+            }
+            let html = '';
+            for (const key in cityData) {
+                // Para o campo "Site", criamos um link clicável
+                if (key === "Site" && cityData[key].trim() !== "") {
+                    html += `<p><strong>${key}:</strong> <a href="${cityData[key]}" target="_blank">${cityData[key]}</a></p>`;
+                } else {
+                    html += `<p><strong>${key}:</strong> ${cityData[key]}</p>`;
+                }
+            }
+            return html;
+        }
+
+        async function loadSectorInfo() {
+            try {
+                const response = await fetch('info.json'); // Faz a requisição ao arquivo info.json
+                if (!response.ok) {
+                    throw new Error(`Erro HTTP! Status: ${response.status}`);
+                }
+                setorInfo = await response.json(); // Converte a resposta para JSON
+                console.log('Informações das cidades carregadas:', setorInfo);
+                infoBox.innerHTML = 'Passe o mouse sobre uma cidade ou clique nela para ver os detalhes.';
+                
+                addEventListenersToSectors();
+
+            } catch (error) {
+                console.error('Erro ao carregar o arquivo JSON:', error);
+                infoBox.innerHTML = '<p style="color: red;">Erro ao carregar informações. Verifique o console do navegador e se o servidor local está rodando.</p>';
+            }
+        }
+
+        function addEventListenersToSectors() {
+            setoresClicaveis.forEach(setor => {
+                const idCidade = setor.id; // O ID do setor é o nome da cidade
+                const detalhesCidade = setorInfo[idCidade];
+
+                // Evento de Clique
+                setor.addEventListener('click', function() {
+                    console.log(`Cidade clicada: ${idCidade}`);
+                    infoBox.innerHTML = formatCityDetails(detalhesCidade);
+                });
+
+                // Evento de Mouse Enter (hover)
+                setor.addEventListener('mouseenter', function() {
+                    // Ao passar o mouse, mostramos um resumo ou o nome da cidade
+                    infoBox.innerHTML = `<strong>Cidade:</strong> ${detalhesCidade?.Cidade || idCidade}<br><strong>Região:</strong> ${detalhesCidade?.Região || 'N/A'}`;
+                });
+
+                // Evento de Mouse Leave (hover)
+                setor.addEventListener('mouseleave', function() {
+                    infoBox.innerHTML = 'Passe o mouse sobre uma cidade ou clique nela para ver os detalhes.';
+                });
+            });
+        }
+
+        // Inicia o carregamento das informações quando a página é carregada
+        loadSectorInfo();
+    </script>
+</body>
+</html>
