@@ -1,29 +1,2738 @@
 {
-    "87": {
-        "Cidade": "Florianópolis",
-        "Região": "",
-        "Nome_Do_Curso": "",
-        "Turno": "",
-        "Site": "",
-        "Modalidade": "",
-        "Categoria_Administrativa_Da_IES": ""
-    },
-    "242": {
-        "Cidade": "Blumenau",
-        "Região": "test",
-        "Nome_Do_Curso": "test",
-        "Turno": "test",
-        "Site": "test",
-        "Modalidade": "test",
-        "Categoria_Administrativa_Da_IES": "test"
-    },
-    "Joinville": {
-        "Cidade": "Joinville",
-        "Região": "",
-        "Nome_Do_Curso": "",
-        "Turno": "",
-        "Site": "",
-        "Modalidade": "",
-        "Categoria_Administrativa_Da_IES": ""
-    }
+  "01": {
+    "Cidade": "Major Gercino",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "02": {
+    "Cidade": "Passo de Torres",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "03": {
+    "Cidade": "São João do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "04": {
+    "Cidade": "Praia Grande",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "05": {
+    "Cidade": "Balneário Gaviota",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "06": {
+    "Cidade": "Santa Rosa do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "07": {
+    "Cidade": "Sombrio",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "08": {
+    "Cidade": "Ermo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "10": {
+    "Cidade": "Balneário Arroio da Silva",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "11": {
+    "Cidade": "Jacinto Machado",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "12": {
+    "Cidade": "Ararangua",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "13": {
+    "Cidade": "Maracajá",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "14": {
+    "Cidade": "Turvo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "15": {
+    "Cidade": "Içara",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "16": {
+    "Cidade": "Meleiro",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "17": {
+    "Cidade": "Forquilhinha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "18": {
+    "Cidade": "Timbé do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "19": {
+    "Cidade": "Içara",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "20": {
+    "Cidade": "Criciúma",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "21": {
+    "Cidade": "Nossa Veneza",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "22": {
+    "Cidade": "Morro Grande",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "23": {
+    "Cidade": "Sangão",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "24": {
+    "Cidade": "Morro da Fumaça",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "25": {
+    "Cidade": "Cocal do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "26": {
+    "Cidade": "Jaguaruna",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "27": {
+    "Cidade": "Siderópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "28": {
+    "Cidade": "Treze de Maio",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "29": {
+    "Cidade": "Treviso",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "30": {
+    "Cidade": "Capivari de Baixo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "31": {
+    "Cidade": "Pedras Grandes",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "32": {
+    "Cidade": "Urussanga",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "33": {
+    "Cidade": "Tubarão",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "34": {
+    "Cidade": "Imaruí",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "35": {
+    "Cidade": "Laguna",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "36": {
+    "Cidade": "Lauro Muller",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "37": {
+    "Cidade": "Gravatai",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "38": {
+    "Cidade": "São Ludgero",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "39": {
+    "Cidade": "Armazém",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "40": {
+    "Cidade": "Banco do Norte",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "41": {
+    "Cidade": "Orleans",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "42": {
+    "Cidade": "Bom Jardim da Serra",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "43": {
+    "Cidade": "São Joaquim",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "44": {
+    "Cidade": "Imbituba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "45": {
+    "Cidade": "Imaruí",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "46": {
+    "Cidade": "São Martinho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "47": {
+    "Cidade": "Grão Pará",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "48": {
+    "Cidade": "Rio Fortuna",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "49": {
+    "Cidade": "Garopa",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "50": {
+    "Cidade": "Santa Rosa de Lima",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "51": {
+    "Cidade": "Urupema",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "52": {
+    "Cidade": "Urubici",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "53": {
+    "Cidade": "Capão Alto",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "54": {
+    "Cidade": "Paulo Lopes",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "55": {
+    "Cidade": "Rio Rufino",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "56": {
+    "Cidade": "São Bonifácio",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "57": {
+    "Cidade": "Painel",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "58": {
+    "Cidade": "Anitápolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "59": {
+    "Cidade": "Bocaina do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "60": {
+    "Cidade": "Águas Mornas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "61": {
+    "Cidade": "Palhoça",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "62": {
+    "Cidade": "Santo Amaro da Imperatriz",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "63": {
+    "Cidade": "Bom Retiro",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "64": {
+    "Cidade": "[Cidade - placeholder]",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "65": {
+    "Cidade": "Campo Belo do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "66": {
+    "Cidade": "Anita Garibaldi",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "67": {
+    "Cidade": "Rancho Queimado",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "68": {
+    "Cidade": "Lages",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "69": {
+    "Cidade": "Cerro Negro",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "70": {
+    "Cidade": "Celso Ramos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "71": {
+    "Cidade": "Alfredo Wagner",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "72": {
+    "Cidade": "São Pedro de Alcântara",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "73": {
+    "Cidade": "Ituporanga",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "74": {
+    "Cidade": "São José",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "75": {
+    "Cidade": "Chapadão do Lageado",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "76": {
+    "Cidade": "Abdon Batista",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "77": {
+    "Cidade": "Correia Pinto",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "78": {
+    "Cidade": "Petrolândia",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "79": {
+    "Cidade": "Palmeira",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "80": {
+    "Cidade": "Angelina",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "81": {
+    "Cidade": "Ituporanga",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "82": {
+    "Cidade": "São José do Cerrito",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "83": {
+    "Cidade": "Antônio Carlos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "84": {
+    "Cidade": "Piratuba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "85": {
+    "Cidade": "Atalanta",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "86": {
+    "Cidade": "Zortéa",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "87": {
+    "Cidade": "Florianópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "88": {
+    "Cidade": "Vargem",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "89": {
+    "Cidade": "Agrolândia",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "90": {
+    "Cidade": "Alto Bela Vista",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "91": {
+    "Cidade": "Capinzal",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "92": {
+    "Cidade": "Biguaçu",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "93": {
+    "Cidade": "Leoberto Leal",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "94": {
+    "Cidade": "Ituporanga",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "95": {
+    "Cidade": "Governador celso Ramos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "96": {
+    "Cidade": "Braço do Trombudo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "97": {
+    "Cidade": "Otacílio Costa",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "98": {
+    "Cidade": "Peritiba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "99": {
+    "Cidade": "Ipira",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "100": {
+    "Cidade": "Ponte Alta",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "101": {
+    "Cidade": "Aurora",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "102": {
+    "Cidade": "Agronômica",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "103": {
+    "Cidade": "Trombudo Central",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "104": {
+    "Cidade": "Vidal Ramos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "105": {
+    "Cidade": "São João Batista",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "106": {
+    "Cidade": "São Cristovão do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "107": {
+    "Cidade": "Brunópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "108": {
+    "Cidade": "Erval Velho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "109": {
+    "Cidade": "Campos Novos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "110": {
+    "Cidade": "Lacerdópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "111": {
+    "Cidade": "Nova Trento",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "112": {
+    "Cidade": "Pouso Redondo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "113": {
+    "Cidade": "Ouro",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "114": {
+    "Cidade": "[Cidade - placeholder]",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "115": {
+    "Cidade": "Presidente Castelo Branco",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "116": {
+    "Cidade": "Itá",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "117": {
+    "Cidade": "Presidente Nereu",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "118": {
+    "Cidade": "Paial",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholde[r]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "119": {
+    "Cidade": "Canelinha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "120": {
+    "Cidade": "Laurentino",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "121": {
+    "Cidade": "Bombinhas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "122": {
+    "Cidade": "Porto Belo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "123": {
+    "Cidade": "Tijucas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "124": {
+    "Cidade": "Imbiam",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "125": {
+    "Cidade": "Botuverá",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "126": {
+    "Cidade": "Frei Rogério",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "127": {
+    "Cidade": "Monte Carlo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "128": {
+    "Cidade": "Herval d'Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "129": {
+    "Cidade": "Concórdia",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "130": {
+    "Cidade": "Mirim Doce",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "131": {
+    "Cidade": "Ponte Alta do Norte",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "132": {
+    "Cidade": "Lontras",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "133": {
+    "Cidade": "Caxambu do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "134": {
+    "Cidade": "Rio do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "135": {
+    "Cidade": "Jabora",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "136": {
+    "Cidade": "Arabutã",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "137": {
+    "Cidade": "Seara",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "138": {
+    "Cidade": "Itapema",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "139": {
+    "Cidade": "Curitibanos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "140": {
+    "Cidade": "Tangará",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "141": {
+    "Cidade": "Luzerna",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "142": {
+    "Cidade": "Joaçaba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "143": {
+    "Cidade": "Guabiruba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "144": {
+    "Cidade": "Rio do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "145": {
+    "Cidade": "Pinheiro Preto",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "146": {
+    "Cidade": "Ibicaré",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "147": {
+    "Cidade": "Guatambú",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "148": {
+    "Cidade": "São João do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "149": {
+    "Cidade": "Planalto Alegre",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "150": {
+    "Cidade": "Mondaí",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "151": {
+    "Cidade": "Itapiranga",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "152": {
+    "Cidade": "Balneário Camboriú",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "153": {
+    "Cidade": "Brusque",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "154": {
+    "Cidade": "Arvoredo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "155": {
+    "Cidade": "Apiúna",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "156": {
+    "Cidade": "Camboriú",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "157": {
+    "Cidade": "Taió",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "158": {
+    "Cidade": "São Carlos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "159": {
+    "Cidade": "Balneário Camboriú",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "160": {
+    "Cidade": "Águas de Chapecó",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "161": {
+    "Cidade": "Presidente Getúlio",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "162": {
+    "Cidade": "Catanduvas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "163": {
+    "Cidade": "Lindóia do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "164": {
+    "Cidade": "Palmitos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "165": {
+    "Cidade": "Xavantina",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "166": {
+    "Cidade": "Chapecó",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "167": {
+    "Cidade": "Irani",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "168": {
+    "Cidade": "Ipumirim",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "169": {
+    "Cidade": "[Cidade - placeholder]",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "170": {
+    "Cidade": "Cunhatai",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "171": {
+    "Cidade": "Iporã do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "172": {
+    "Cidade": "Tunápolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "173": {
+    "Cidade": "Iomerê",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "174": {
+    "Cidade": "Cordilheira Alta",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "175": {
+    "Cidade": "Ascurra",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "176": {
+    "Cidade": "Dona Emma",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "177": {
+    "Cidade": "Caibi",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "178": {
+    "Cidade": "Nova Itaberaba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "179": {
+    "Cidade": "Ibirama",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "180": {
+    "Cidade": "Witmarsum",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "181": {
+    "Cidade": "Fraiburgo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "182": {
+    "Cidade": "Santa Helena",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "183": {
+    "Cidade": "Riqueza",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "184": {
+    "Cidade": "Salete",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "185": {
+    "Cidade": "Arroio Trinta",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "186": {
+    "Cidade": "Xaxim",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "187": {
+    "Cidade": "Nova Erechim",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "188": {
+    "Cidade": "Videira",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "189": {
+    "Cidade": "Treze Tilias",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "190": {
+    "Cidade": "Itajaí",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "191": {
+    "Cidade": "Salto Veloso",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "192": {
+    "Cidade": "Vargem Bonita",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "193": {
+    "Cidade": "Indaial",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "194": {
+    "Cidade": "Rio das Antas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "195": {
+    "Cidade": "Navegantes",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "196": {
+    "Cidade": "Rodeio",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "197": {
+    "Cidade": "Belmonte",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "198": {
+    "Cidade": "Lageado Grande",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "199": {
+    "Cidade": "Águas Frias",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "200": {
+    "Cidade": "Saudades",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "201": {
+    "Cidade": "Cunha Porã",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "202": {
+    "Cidade": "Coronel Freitas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "203": {
+    "Cidade": "Rio do Campo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "204": {
+    "Cidade": "Gaspar",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "205": {
+    "Cidade": "Iraceminha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "206": {
+    "Cidade": "Descanso",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "207": {
+    "Cidade": "Penha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "208": {
+    "Cidade": "Ilhota",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "209": {
+    "Cidade": "Ponte Serrada",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "210": {
+    "Cidade": "Xanxerê",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "211": {
+    "Cidade": "Marema",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "212": {
+    "Cidade": "Pinhalzinho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "213": {
+    "Cidade": "Navegantes",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "214": {
+    "Cidade": "Timbó",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "215": {
+    "Cidade": "União do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "216": {
+    "Cidade": "Modelo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "217": {
+    "Cidade": "Maciera",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "218": {
+    "Cidade": "Faxinal dos Guedes",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "219": {
+    "Cidade": "Flor do Sertão",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "220": {
+    "Cidade": "Balneário Piçarras",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "221": {
+    "Cidade": "Vitor Meireles",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "222": {
+    "Cidade": "José Boiteux",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "223": {
+    "Cidade": "Maravilha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "224": {
+    "Cidade": "Bandeirante",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "225": {
+    "Cidade": "Vargeão",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "226": {
+    "Cidade": "Bom Jesus",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "227": {
+    "Cidade": "Entre Rios",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "228": {
+    "Cidade": "Jadinópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "229": {
+    "Cidade": "Santa Cecília",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "230": {
+    "Cidade": "Lebon Régis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "231": {
+    "Cidade": "Benedito Novo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "232": {
+    "Cidade": "Ouro Verde",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "233": {
+    "Cidade": "Quilombo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "234": {
+    "Cidade": "São Miguel do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "235": {
+    "Cidade": "[Cidade - placeholder]",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "236": {
+    "Cidade": "São Miguel da Boa Vista",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "237": {
+    "Cidade": "Luiz Alves",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "238": {
+    "Cidade": "Serra Alta",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "239": {
+    "Cidade": "Bom Jesus do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "240": {
+    "Cidade": "Tigrinhos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "241": {
+    "Cidade": "Caçador",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "242": {
+    "Cidade": "Blumenau",
+    "Região": "test",
+    "Nome_Do_Curso": "test",
+    "Turno": "test",
+    "Site": "test",
+    "Modalidade": "test",
+    "Categoria_Administrativa_Da_IES": "test"
+  },
+  "243": {
+    "Cidade": "Pomerode",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "244": {
+    "Cidade": "Sul Brasil",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "245": {
+    "Cidade": "Barra Bonita",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "246": {
+    "Cidade": "Santiago do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "247": {
+    "Cidade": "Formosura do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "248": {
+    "Cidade": "[Cidade - placeholder]",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "249": {
+    "Cidade": "Irati",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "250": {
+    "Cidade": "Paraíso",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "251": {
+    "Cidade": "Barra Velha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "252": {
+    "Cidade": "Ipuaçu",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "253": {
+    "Cidade": "Doutor Pedrinho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "254": {
+    "Cidade": "Água Doce",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "255": {
+    "Cidade": "Passos Maia",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "256": {
+    "Cidade": "Saltinho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "257": {
+    "Cidade": "Romelândia",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "258": {
+    "Cidade": "Massaranduba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "259": {
+    "Cidade": "Santa Terezinha do Progresso",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "260": {
+    "Cidade": "São João do Itaperiú",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "261": {
+    "Cidade": "Guaraciaba",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "262": {
+    "Cidade": "Santa Terezinha",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "263": {
+    "Cidade": "Timbó Grande",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "264": {
+    "Cidade": "Rio dos Cedros",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "265": {
+    "Cidade": "Calmon",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "266": {
+    "Cidade": "Coronel Martins",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "267": {
+    "Cidade": "Monte Castelo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "268": {
+    "Cidade": "Anchieta",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "269": {
+    "Cidade": "Aberlado Luz",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "270": {
+    "Cidade": "São José do Cedro",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "271": {
+    "Cidade": "São Bernardinho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "272": {
+    "Cidade": "São Domingos",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "273": {
+    "Cidade": "Novo Horizonte",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "274": {
+    "Cidade": "Matos Costa",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "275": {
+    "Cidade": "Galvão",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "276": {
+    "Cidade": "Guaramirim",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "277": {
+    "Cidade": "Princesa",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "278": {
+    "Cidade": "Balneário Barra do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "279": {
+    "Cidade": "Guarujá do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "280": {
+    "Cidade": "Corupá",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "281": {
+    "Cidade": "São Lourenço do Oeste",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "282": {
+    "Cidade": "Campo Erê",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "283": {
+    "Cidade": "Araquari",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "284": {
+    "Cidade": "Jupiá",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "285": {
+    "Cidade": "Jaraguá do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "286": {
+    "Cidade": "Schroeder",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "287": {
+    "Cidade": "Major Vieira",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "288": {
+    "Cidade": "Palma Sola",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "289": {
+    "Cidade": "Itaópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "290": {
+    "Cidade": "Dionísio Cerqueira",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "291": {
+    "Cidade": "Bela Vista do Toldo",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "292": {
+    "Cidade": "Porto União",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "293": {
+    "Cidade": "Jaraguá do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "294": {
+    "Cidade": "Rio Negrinho",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "295": {
+    "Cidade": "Papanduva",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "296": {
+    "Cidade": "Irineópolis",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "297": {
+    "Cidade": "São Bento do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "298": {
+    "Cidade": "São Francisco do Sul",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "299": {
+    "Cidade": "Joinville",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "300": {
+    "Cidade": "Três Barras",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "301": {
+    "Cidade": "Canoinhas",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "302": {
+    "Cidade": "Mafra",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "303": {
+    "Cidade": "Campo Alegre",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "304": {
+    "Cidade": "Garuva",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  },
+  "305": {
+    "Cidade": "Itapoá",
+    "Região": "[Região - placeholder]",
+    "Nome_Do_Curso": "[Nome_Do_Curso - placeholder]",
+    "Turno": "[Turno - placeholder]",
+    "Site": "[Site - placeholder]",
+    "Modalidade": "[Modalidade - placeholder]",
+    "Categoria_Administrativa_Da_IES": "[Categoria_Administrativa_Da_IES - placeholder]"
+  }
 }
